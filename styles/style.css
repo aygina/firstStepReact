@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(147, 174, 213);
+    font-family: 'Comfortaa', sans-serif;
+}
+
+h2 {
+    color:rgb(72, 112, 169);
+}
+
+.form {
+    height: 20vh;
+    text-align: center;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 0.7em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+button {
+    background: rgb(72, 112, 169);
+    border: 1px solid #bdbdbd;
+    border-radius: 0.25rem;
+    color: #fff;
+    font-size: 0.8rem;
+    font-family: 'Comfortaa', sans-serif;
+    font-style: normal;
+    width: 190px;
+    height: 34px;
+    cursor: pointer;    
+}
+
+button:hover {
+    opacity: 80%;
+}
